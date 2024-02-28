@@ -2,7 +2,7 @@
   "epgs": [
     {
       "tvid": "1",
-      "epgid": "CCTV1",
+      "epgid": "CCTV-1 综合",
       "name": "CCTV-1综合,CCTV-1,CCTV1,CCTV1综合",
       "status": "1",
       "note": "CCTV-1综合",
@@ -10,7 +10,7 @@
     },
     {
       "tvid": "2",
-      "epgid": "CCTV2",
+      "epgid": "CCTV-2 财经",
       "name": "CCTV-2财经,CCTV-2,CCTV2,CCTV2财经",
       "status": "1",
       "note": "CCTV-2财经",
@@ -18,7 +18,7 @@
     },
     {
       "tvid": "3",
-      "epgid": "CCTV3",
+      "epgid": "CCTV-3 综艺",
       "name": "CCTV-3综艺,CCTV-3,CCTV3,CCTV3综艺",
       "status": "1",
       "note": "CCTV-3综艺",
@@ -26,7 +26,7 @@
     },
     {
       "tvid": "4",
-      "epgid": "CCTV4",
+      "epgid": "CCTV-4 中文国际",
       "name": "CCTV-4中文国际,CCTV-4,CCTV4,CCTV4中文国际,",
       "status": "1",
       "note": "CCTV-4中文国际",
@@ -50,7 +50,7 @@
     },
     {
       "tvid": "7",
-      "epgid": "CCTV5",
+      "epgid": "CCTV-5 体育",
       "name": "CCTV-5体育,CCTV-5,CCTV5,CCTV5体育",
       "status": "1",
       "note": "CCTV-5体育",
@@ -58,7 +58,7 @@
     },
     {
       "tvid": "8",
-      "epgid": "CCTV5+",
+      "epgid": "CCTV-5+ 体育赛事",
       "name": "CCTV-5+体育赛事,CCTV-5+,CCTV5+,CCTV5+体育赛事",
       "status": "1",
       "note": "CCTV-5+体育赛事",
@@ -66,7 +66,7 @@
     },
     {
       "tvid": "9",
-      "epgid": "CCTV6",
+      "epgid": "CCTV-6 电影",
       "name": "CCTV-6电影,CCTV-6,CCTV6,CCTV6电影",
       "status": "1",
       "note": "CCTV-6电影",
@@ -74,7 +74,7 @@
     },
     {
       "tvid": "10",
-      "epgid": "CCTV7",
+      "epgid": "CCTV-7 国防军事",
       "name": "CCTV-7国防军事,CCTV-7,CCTV7,CCTV7国防军事",
       "status": "1",
       "note": "CCTV-7国防军事",
@@ -82,7 +82,7 @@
     },
     {
       "tvid": "11",
-      "epgid": "CCTV8",
+      "epgid": "CCTV-8 电视剧",
       "name": "CCTV-8电视剧,CCTV-8,CCTV8,CCTV8电视剧",
       "status": "1",
       "note": "CCTV-8电视剧",
@@ -90,7 +90,7 @@
     },
     {
       "tvid": "12",
-      "epgid": "CCTV9",
+      "epgid": "CCTV-9 纪录",
       "name": "CCTV-9纪录,CCTV-9,CCTV9,CCTV9纪录",
       "status": "1",
       "note": "CCTV-9纪录",
@@ -98,7 +98,7 @@
     },
     {
       "tvid": "13",
-      "epgid": "CCTV10",
+      "epgid": "CCTV-10 科教",
       "name": "CCTV-10科教,CCTV-10,CCTV10,CCTV10科教",
       "status": "1",
       "note": "CCTV-10科教",
@@ -106,7 +106,7 @@
     },
     {
       "tvid": "14",
-      "epgid": "CCTV11",
+      "epgid": "CCTV-11 戏曲",
       "name": "CCTV-11戏曲,CCTV-11,CCTV11,CCTV11戏曲",
       "status": "1",
       "note": "CCTV-11戏曲",
@@ -114,7 +114,7 @@
     },
     {
       "tvid": "15",
-      "epgid": "CCTV12",
+      "epgid": "CCTV-12 社会与法",
       "name": "CCTV-12社会与法,CCTV-12,CCTV12,CCTV12社会与法",
       "status": "1",
       "note": "CCTV-12社会与法",
@@ -122,7 +122,7 @@
     },
     {
       "tvid": "16",
-      "epgid": "CCTV13",
+      "epgid": "CCTV-13 新闻",
       "name": "CCTV-13新闻,CCTV-13,CCTV13,CCTV13新闻",
       "status": "1",
       "note": "CCTV-13新闻",
@@ -130,7 +130,7 @@
     },
     {
       "tvid": "17",
-      "epgid": "CCTV14",
+      "epgid": "CCTV-14 少儿",
       "name": "CCTV-14少儿,CCTV-14,CCTV14,CCTV14少儿",
       "status": "1",
       "note": "CCTV-14少儿",
@@ -138,7 +138,7 @@
     },
     {
       "tvid": "18",
-      "epgid": "CCTV15",
+      "epgid": "CCTV-15 音乐",
       "name": "CCTV-15音乐,CCTV-15,CCTV15,CCTV15音乐",
       "status": "1",
       "note": "CCTV-15音乐",
@@ -146,7 +146,7 @@
     },
     {
       "tvid": "19",
-      "epgid": "CCTV16",
+      "epgid": "CCTV-16 奥林匹克",
       "name": "CCTV-16奥林匹克,CCTV-16,CCTV16,CCTV16奥林匹克",
       "status": "1",
       "note": "CCTV-16奥林匹克",
@@ -154,7 +154,7 @@
     },
     {
       "tvid": "20",
-      "epgid": "CCTV17",
+      "epgid": "CCTV-17 农业农村",
       "name": "CCTV-17农业农村,CCTV-17,CCTV17,CCTV17农业农村",
       "status": "1",
       "note": "CCTV-17农业农村",
@@ -178,8 +178,8 @@
     },
     {
       "tvid": "23",
-      "epgid": "CGTN",
-      "name": "CGTN,CGTN英语",
+      "epgid": "CGTN新闻",
+      "name": "CGTN,CGTN英语,CGTN新闻",
       "status": "1",
       "note": "CGTN",
       "logo": "https://live.fanmingming.com/tv/CGTN.png"
