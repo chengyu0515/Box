@@ -3,33 +3,33 @@
     {
       "tvid": "1",
       "epgid": "CCTV-1 综合",
-      "name": "CCTV-1综合,CCTV-1,CCTV1,CCTV1综合",
+      "name": "CCTV-1 综合,CCTV-1,CCTV1,CCTV1综合",
       "status": "1",
-      "note": "CCTV-1综合",
+      "note": "CCTV-1 综合",
       "logo": "https://live.fanmingming.com/tv/CCTV1.png"
     },
     {
       "tvid": "2",
       "epgid": "CCTV-2 财经",
-      "name": "CCTV-2财经,CCTV-2,CCTV2,CCTV2财经",
+      "name": "CCTV-2 财经,CCTV-2,CCTV2,CCTV2财经",
       "status": "1",
-      "note": "CCTV-2财经",
+      "note": "CCTV-2 财经",
       "logo": "https://live.fanmingming.com/tv/CCTV2.png"
     },
     {
       "tvid": "3",
       "epgid": "CCTV-3 综艺",
-      "name": "CCTV-3综艺,CCTV-3,CCTV3,CCTV3综艺",
+      "name": "CCTV-3 综艺,CCTV-3,CCTV3,CCTV3综艺",
       "status": "1",
-      "note": "CCTV-3综艺",
+      "note": "CCTV-3 综艺",
       "logo": "https://live.fanmingming.com/tv/CCTV3.png"
     },
     {
       "tvid": "4",
       "epgid": "CCTV-4 中文国际",
-      "name": "CCTV-4中文国际,CCTV-4,CCTV4,CCTV4中文国际,",
+      "name": "CCTV-4 中文国际,CCTV-4,CCTV4,CCTV4中文国际,",
       "status": "1",
-      "note": "CCTV-4中文国际",
+      "note": "CCTV-4 中文国际",
       "logo": "https://live.fanmingming.com/tv/CCTV4.png"
     },
     {
@@ -51,118 +51,118 @@
     {
       "tvid": "7",
       "epgid": "CCTV-5 体育",
-      "name": "CCTV-5体育,CCTV-5,CCTV5,CCTV5体育",
+      "name": "CCTV-5 体育,CCTV-5,CCTV5,CCTV5体育",
       "status": "1",
-      "note": "CCTV-5体育",
+      "note": "CCTV-5 体育",
       "logo": "https://live.fanmingming.com/tv/CCTV5.png"
     },
     {
       "tvid": "8",
       "epgid": "CCTV-5+ 体育赛事",
-      "name": "CCTV-5+体育赛事,CCTV-5+,CCTV5+,CCTV5+体育赛事",
+      "name": "CCTV-5+ 体育赛事,CCTV-5+,CCTV5+,CCTV5+体育赛事",
       "status": "1",
-      "note": "CCTV-5+体育赛事",
+      "note": "CCTV-5+ 体育赛事",
       "logo": "https://live.fanmingming.com/tv/CCTV5+.png"
     },
     {
       "tvid": "9",
       "epgid": "CCTV-6 电影",
-      "name": "CCTV-6电影,CCTV-6,CCTV6,CCTV6电影",
+      "name": "CCTV-6 电影,CCTV-6,CCTV6,CCTV6电影",
       "status": "1",
-      "note": "CCTV-6电影",
+      "note": "CCTV-6 电影",
       "logo": "https://live.fanmingming.com/tv/CCTV6.png"
     },
     {
       "tvid": "10",
       "epgid": "CCTV-7 国防军事",
-      "name": "CCTV-7国防军事,CCTV-7,CCTV7,CCTV7国防军事",
+      "name": "CCTV-7 国防军事,CCTV-7,CCTV7,CCTV7国防军事",
       "status": "1",
-      "note": "CCTV-7国防军事",
+      "note": "CCTV-7 国防军事",
       "logo": "https://live.fanmingming.com/tv/CCTV7.png"
     },
     {
       "tvid": "11",
       "epgid": "CCTV-8 电视剧",
-      "name": "CCTV-8电视剧,CCTV-8,CCTV8,CCTV8电视剧",
+      "name": "CCTV-8 电视剧,CCTV-8,CCTV8,CCTV8电视剧",
       "status": "1",
-      "note": "CCTV-8电视剧",
+      "note": "CCTV-8 电视剧",
       "logo": "https://live.fanmingming.com/tv/CCTV8.png"
     },
     {
       "tvid": "12",
       "epgid": "CCTV-9 纪录",
-      "name": "CCTV-9纪录,CCTV-9,CCTV9,CCTV9纪录",
+      "name": "CCTV-9 纪录,CCTV-9,CCTV9,CCTV9纪录",
       "status": "1",
-      "note": "CCTV-9纪录",
+      "note": "CCTV-9 纪录",
       "logo": "https://live.fanmingming.com/tv/CCTV9.png"
     },
     {
       "tvid": "13",
       "epgid": "CCTV-10 科教",
-      "name": "CCTV-10科教,CCTV-10,CCTV10,CCTV10科教",
+      "name": "CCTV-10 科教,CCTV-10,CCTV10,CCTV10科教",
       "status": "1",
-      "note": "CCTV-10科教",
+      "note": "CCTV-10 科教",
       "logo": "https://live.fanmingming.com/tv/CCTV10.png"
     },
     {
       "tvid": "14",
       "epgid": "CCTV-11 戏曲",
-      "name": "CCTV-11戏曲,CCTV-11,CCTV11,CCTV11戏曲",
+      "name": "CCTV-11 戏曲,CCTV-11,CCTV11,CCTV11戏曲",
       "status": "1",
-      "note": "CCTV-11戏曲",
+      "note": "CCTV-11 戏曲",
       "logo": "https://live.fanmingming.com/tv/CCTV11.png"
     },
     {
       "tvid": "15",
       "epgid": "CCTV-12 社会与法",
-      "name": "CCTV-12社会与法,CCTV-12,CCTV12,CCTV12社会与法",
+      "name": "CCTV-12 社会与法,CCTV-12,CCTV12,CCTV12社会与法",
       "status": "1",
-      "note": "CCTV-12社会与法",
+      "note": "CCTV-12 社会与法",
       "logo": "https://live.fanmingming.com/tv/CCTV12.png"
     },
     {
       "tvid": "16",
       "epgid": "CCTV-13 新闻",
-      "name": "CCTV-13新闻,CCTV-13,CCTV13,CCTV13新闻",
+      "name": "CCTV-13 新闻,CCTV-13,CCTV13,CCTV13新闻",
       "status": "1",
-      "note": "CCTV-13新闻",
+      "note": "CCTV-13 新闻",
       "logo": "https://live.fanmingming.com/tv/CCTV13.png"
     },
     {
       "tvid": "17",
       "epgid": "CCTV-14 少儿",
-      "name": "CCTV-14少儿,CCTV-14,CCTV14,CCTV14少儿",
+      "name": "CCTV-14 少儿,CCTV-14,CCTV14,CCTV14少儿",
       "status": "1",
-      "note": "CCTV-14少儿",
+      "note": "CCTV-14 少儿",
       "logo": "https://live.fanmingming.com/tv/CCTV14.png"
     },
     {
       "tvid": "18",
       "epgid": "CCTV-15 音乐",
-      "name": "CCTV-15音乐,CCTV-15,CCTV15,CCTV15音乐",
+      "name": "CCTV-15 音乐,CCTV-15,CCTV15,CCTV15音乐",
       "status": "1",
-      "note": "CCTV-15音乐",
+      "note": "CCTV-15 音乐",
       "logo": "https://live.fanmingming.com/tv/CCTV15.png"
     },
     {
       "tvid": "19",
       "epgid": "CCTV-16 奥林匹克",
-      "name": "CCTV-16奥林匹克,CCTV-16,CCTV16,CCTV16奥林匹克",
+      "name": "CCTV-16 奥林匹克,CCTV-16,CCTV16,CCTV16奥林匹克",
       "status": "1",
-      "note": "CCTV-16奥林匹克",
+      "note": "CCTV-16 奥林匹克",
       "logo": "https://live.fanmingming.com/tv/CCTV16.png"
     },
     {
       "tvid": "20",
       "epgid": "CCTV-17 农业农村",
-      "name": "CCTV-17农业农村,CCTV-17,CCTV17,CCTV17农业农村",
+      "name": "CCTV-17 农业农村,CCTV-17,CCTV17,CCTV17农业农村",
       "status": "1",
-      "note": "CCTV-17农业农村",
+      "note": "CCTV-17 农业农村",
       "logo": "https://live.fanmingming.com/tv/CCTV17.png"
     },
     {
       "tvid": "21",
-      "epgid": "CCTV4K",
+      "epgid": "CCTV-4K",
       "name": "CCTV4K,CCTV4K超高清,CCTV-4K,CCTV-4K超高清",
       "status": "1",
       "note": "CCTV-4K超高清",
@@ -170,7 +170,7 @@
     },
     {
       "tvid": "22",
-      "epgid": "CCTV8K",
+      "epgid": "CCTV-8K",
       "name": "CCTV8K,CCTV8K超高清,CCTV-8K,CCTV-8K超高清",
       "status": "1",
       "note": "CCTV-8K超高清",
