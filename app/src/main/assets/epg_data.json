@@ -4441,14 +4441,6 @@
       "logo": ""
     },
     {
-      "tvid": "556",
-      "epgid": "CGTNDocumentary",
-      "name": "CGTN 纪录(英),CGTN纪录(英),CGTN 纪录,CGTN纪录",
-      "status": "1",
-      "note": "CGTN 纪录(英)",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png"
-    },
-    {
       "tvid": "557",
       "epgid": "TraceSports",
       "name": "Trace Sports",
