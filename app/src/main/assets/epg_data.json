@@ -4441,6 +4441,14 @@
       "logo": ""
     },
     {
+      "tvid": "556",
+      "epgid": "爱上4K",
+      "name": "爱上4K",
+      "status": "1",
+      "note": "爱上4K",
+      "logo": "https://live.fanmingming.com/tv/爱上4K.png"
+    },
+    {
       "tvid": "557",
       "epgid": "TraceSports",
       "name": "Trace Sports",
