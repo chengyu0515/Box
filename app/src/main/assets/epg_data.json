@@ -2074,40 +2074,40 @@
     },
     {
       "tvid": "260",
-      "epgid": "SCTV2四川文化旅游",
-      "name": "四川文化旅游",
+      "epgid": "四川文化旅游",
+      "name": "四川文化旅游,SCTV2四川文化旅游",
       "status": "1",
       "note": "四川文化旅游",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/sctv2.png"
     },
     {
       "tvid": "261",
-      "epgid": "SCTV3四川经济",
-      "name": "四川经济",
+      "epgid": "四川经济",
+      "name": "四川经济,SCTV3四川经济",
       "status": "1",
       "note": "四川经济",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/sctv3.png"
     },
     {
       "tvid": "262",
-      "epgid": "SCTV4四川新闻",
-      "name": "四川新闻",
+      "epgid": "四川新闻",
+      "name": "四川新闻,SCTV4四川新闻",
       "status": "1",
       "note": "四川新闻",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/sctv4.png"
     },
     {
       "tvid": "263",
-      "epgid": "SCTV5四川影视文艺",
-      "name": "四川影视文艺",
+      "epgid": "四川影视文艺",
+      "name": "四川影视文艺,SCTV5四川影视文艺",
       "status": "1",
       "note": "四川影视文艺",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/sctv5.png"
     },
     {
       "tvid": "264",
-      "epgid": "SCTV7四川妇女儿童",
-      "name": "四川妇女儿童",
+      "epgid": "四川妇女儿童",
+      "name": "四川妇女儿童,SCTV7四川妇女儿童",
       "status": "1",
       "note": "四川妇女儿童",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/sctv7.png"
@@ -2122,72 +2122,72 @@
     },
     {
       "tvid": "266",
-      "epgid": "SCTV9四川乡村",
-      "name": "四川乡村",
+      "epgid": "四川乡村",
+      "name": "四川乡村,SCTV9四川乡村",
       "status": "1",
       "note": "四川乡村",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/sctv9.png"
     },
     {
       "tvid": "267",
-      "epgid": "SCTV8四川科教",
-      "name": "四川科教",
+      "epgid": "四川科教",
+      "name": "四川科教,SCTV8四川科教",
       "status": "1",
       "note": "四川科教",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/sctv8.png"
     },
     {
       "tvid": "268",
-      "epgid": "CDTV1成都新闻综合",
-      "name": "成都新闻综合",
+      "epgid": "成都新闻综合",
+      "name": "成都新闻综合,CDTV1成都新闻综合",
       "status": "1",
       "note": "成都新闻综合",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png"
     },
     {
       "tvid": "269",
-      "epgid": "CDTV2成都经济资讯",
-      "name": "成都经济资讯",
+      "epgid": "成都经济资讯",
+      "name": "成都经济资讯,CDTV2成都经济资讯",
       "status": "1",
       "note": "成都经济资讯",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png"
     },
     {
       "tvid": "270",
-      "epgid": "CDTV3成都都市生活",
-      "name": "成都都市生活",
+      "epgid": "成都都市生活",
+      "name": "成都都市生活,CDTV3成都都市生活",
       "status": "1",
       "note": "成都都市生活",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png"
     },
     {
       "tvid": "271",
-      "epgid": "CDTV4成都影视文艺",
-      "name": "成都影视文艺",
+      "epgid": "成都影视文艺",
+      "name": "成都影视文艺,CDTV4成都影视文艺",
       "status": "1",
       "note": "成都影视文艺",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png"
     },
     {
       "tvid": "272",
-      "epgid": "CDTV5成都公共",
-      "name": "成都公共",
+      "epgid": "成都公共",
+      "name": "成都公共,CDTV5成都公共",
       "status": "1",
       "note": "成都公共",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png"
     },
     {
       "tvid": "273",
-      "epgid": "CDTV6成都少儿",
-      "name": "成都少儿",
+      "epgid": "成都少儿",
+      "name": "成都少儿,CDTV6成都少儿",
       "status": "1",
       "note": "成都少儿",
       "logo": "http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png"
     },
     {
       "tvid": "274",
-      "epgid": "CDTV7成都美食天府",
-      "name": "成都美食天府",
+      "epgid": "成都美食天府",
+      "name": "成都美食天府,CDTV7成都美食天府",
       "status": "1",
       "note": "成都美食天府",
       "logo": ""
